@@ -31,20 +31,18 @@ I have completed all the required setup and published this page using GitHub. It
   data-output="4"
 ><code class="language-bash">cat /etc/contacts
 # User: [Your Handle]
-# Status: Online
-# Connections: Established
 
-* Instagram: [https://www.instagram.com/0x1ak4sh/](https://www.instagram.com/0x1ak4sh/)
-* Twitter/X: [https://twitter.com/0x1ak4sh/](https://twitter.com/0x1ak4sh/)
-* LinkedIn: [https://www.linkedin.com/in/0x1ak4sh](https://www.linkedin.com/in/0x1ak4sh)
-* Telegram: [https://t.me/Ak4sh0x1](https://t.me/Ak4sh0x1)
-* HackTheBox: [https://app.hackthebox.com/profile/1243635](https://app.hackthebox.com/profile/1243635)
-* TryHackMe: [https://tryhackme.com/p/0x1Ak4sh](https://tryhackme.com/p/0x1Ak4sh)
+ Instagram: [https://www.instagram.com/0x1ak4sh/](https://www.instagram.com/0x1ak4sh/)
+ Twitter/X: [https://twitter.com/0x1ak4sh/](https://twitter.com/0x1ak4sh/)
+ LinkedIn: [https://www.linkedin.com/in/0x1ak4sh](https://www.linkedin.com/in/0x1ak4sh)
+ Telegram: [https://t.me/Ak4sh0x1](https://t.me/Ak4sh0x1)
+ HackTheBox: [https://app.hackthebox.com/profile/1243635](https://app.hackthebox.com/profile/1243635)
+ TryHackMe: [https://tryhackme.com/p/0x1Ak4sh](https://tryhackme.com/p/0x1Ak4sh)
 </code>
 </pre>
 
 
-#### Let's Connect
+#### Let's Connect 1
 
 *   [Instagram](https://www.instagram.com/0x1ak4sh/)
 *   [Twitter/X](https://twitter.com/0x1ak4sh/)
