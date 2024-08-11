@@ -1,30 +1,30 @@
 remote_theme: CaptainIRS/hacker-plus-theme
 
-title:
-author:
-description: 
-disqus_forum_shortname:
+title: Ak4sh
+author: Akash Kumar
+description: Just Testing
+disqus_forum_shortname: 0x1Ak4sh
 google_site_verification_content: # The 'content' tag for site verification
 google_analytics: # Your Google Analytics Tracking ID
 
 # Usernames and badges
-htb_badge_no: # Go to the HackTheBox site and copy your ID
-thm_badge_no: # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
+htb_badge_no: 1243635 
+thm_badge_no: 986648 
 show_thm_htb_badges_in_nav: false
 github_username: 
 gitlab:
 medium:
 stackoverflow:
 hacker_news:
-linkedin:
-twitch:
+linkedin: https://www.linkedin.com/in/0x1ak4sh
+twitch: 
 youtube:
-twitter: 
+twitter: https://twitter.com/0x1ak4sh/
 facebook:
-instagram:
+instagram: https://www.instagram.com/0x1ak4sh/
 reddit:
 pinterest:
-telegram:
+telegram: https://t.me/Ak4sh0x1
 steam:
 
 # -------DO NOT ALTER -------#
