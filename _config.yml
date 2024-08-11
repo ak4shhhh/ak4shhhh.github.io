@@ -1,6 +1,6 @@
 remote_theme: CaptainIRS/hacker-plus-theme
 
-title: Ak4shh
+title: Ak4sh
 author: Akash Kumar
 description: Just Testing
 disqus_forum_shortname: 0x1Ak4sh
@@ -49,5 +49,5 @@ collections:
       output: true
    solutions:
       output: true
-   links:
+   blog:
       output: true
