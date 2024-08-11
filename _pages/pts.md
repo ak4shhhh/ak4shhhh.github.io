@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 - [ ] Windows Local Enumeration
 - [ ] Linux Local Enumeration
 - [ ] Transferring Files To Windows & Linux Targets
